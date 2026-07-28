@@ -44,6 +44,6 @@ This study designs a complete photonic LiDAR system — from component-level las
 - Cost-effective, open-source hardware alternatives for wider accessibility
 - AI-driven autonomous flight path optimization
 
-## 👥 Authors
+# Authors
 
 Kawtharul Jannah Mohd Sukki · Nur Ain Afiqah Shabudin
